@@ -1,0 +1,21 @@
+#PeopleList{
+    margin-top:2%;
+}
+
+.active{
+    text-align: center;
+    font-size:30px !important;    
+}
+
+.list-group-item{
+    font-size:20px;
+}
+.username{
+    color:green;
+    font-weight:bold;
+    text-transform: capitalize;
+}
+
+.place{
+    color:blueviolet;
+}

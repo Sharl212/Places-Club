@@ -1,0 +1,31 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.active{
+  text-align:center;
+  font-size:20px;
+}
+
+.open{
+  color:green;
+}
+
+.closed{
+  color:rgb(184, 28, 28);
+}
+
+.nav-link{
+  font-size:17px;
+}
+
+.list-group{
+  margin-top:2%;
+}
+#place{
+  display:none;
+}
