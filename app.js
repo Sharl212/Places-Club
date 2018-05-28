@@ -18,7 +18,7 @@ const createError = require('http-errors'),
 
 var router = express.Router();
 
-mongoose.connect("mongodb://localhost:27017/nightlife", (err, db) => {
+mongoose.connect("mongodb://admin:admin@ds137600.mlab.com:37600/palces-club", (err, db) => {
   if (err) {
     return console.log(err);
   }
